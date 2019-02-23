@@ -5,7 +5,7 @@ ___
 
 #### Example Usage :
 ```
-
+// You can use it with Jquery or simple Array [0, 2 ,3]
 forEachOf($(selector), (_this, key, callbackForNext) => {
     // Example with Timeout
     setTimeout(()=>{
